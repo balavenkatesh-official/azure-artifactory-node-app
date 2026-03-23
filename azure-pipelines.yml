@@ -22,4 +22,4 @@ stages:
         command: 'publish'
         workingDir: './dist'
         publishRegistry: 'useFeed'
-        publishFeed: '85e62de1-5c76-4b1f-ae41-ccdda14c4308'
+        publishFeed: 'd598db75-1034-4756-b4ce-e8ffc2af8632/02f925ab-2487-4de0-a80f-6b8bc1c65527'
